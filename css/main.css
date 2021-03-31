@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+    
+    background-color: black;
+    
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(116, 12, 235);
+    width: 95%;
+    max-width: 1000px;
+    margin: auto;
+    box-shadow: 0 0 10px rgb(116, 12, 235);
+}
+.box{
+    width: 300px;
+    height: 230px;
+    background-color: rgb(231, 0, 0);
+    margin: 15px 15px 15px 15px;
+    border: solid 3px rgb(13, 69, 126);
+    border-radius: 360px;
+    background-size: cover;
+}
+.box:hover {
+    transform: scale(2,2) rotate(360deg);
+}
+
+.kdk {
+    background-image: url(https://aboutspacejornal.net/wp-content/uploads/2017/03/ultra-hd-wallpapers-space-wallpapers-full-hd1-e1491112231358.jpg);
+  
+}
+.dkd {
+    background-image: url(https://avatanplus.com/files/resources/original/5cab605695432169fd705253.jpg);
+    
+}
+.tyu {
+    background-image: url(https://gagadget.com/media/post_big/earth-view-from-outer-space_840x473.jpg);
+   
+}
+.utu {
+    background-image: url(https://eksmo.ru/upload/iblock/30f/space_l_min.jpg);
+   
+}
+
+.ghd {
+    background-image: url(https://new-science.ru/wp-content/uploads/2019/11/5623.jpg);
+}
+.ldf {
+    background-image: url(https://www.comnews.ru/sites/default/files2019/articles/2020-10/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81.jpg);
+}
+.erd {
+    background-image: url(https://www.culture.ru/storage/images/a67ebc299b77c40a21bdfba0dcbbcf10/4c523fbaff3a2147ae3d11b9f4c1e7bc.png/g_center,c_fill/001.png);
+}
+.adf {
+    background-image: url(https://www.zastavki.com/pictures/640x480/2020Space_Multicolored_abstract_cosmos_144785_29.jpg);
+}
+.iok {
+    background-image: url(https://www.zastavki.com/pictures/640x480/2020Space_Multicolored_abstract_cosmos_144785_29.jpg);
+}
+.jjf {
+    background-image: url(https://www.comnews.ru/sites/default/files2019/articles/2020-10/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81.jpg);
+    
+}
+.kjk {
+    background-image: url(https://new-science.ru/wp-content/uploads/2019/11/5623.jpg);
+}
+.yuy {
+    background-image: url(https://www.comnews.ru/sites/default/files2019/articles/2020-10/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81.jpg);
+}
+img
+{
+    width: 300px;
+    height: 230px;
+}
+img:hover {
+    transform: scale(2,2) rotate(360deg);
+    transition: 0.9%;
+}
+h1 {
+    width: 100%;
+    height: 30px;
+    margin-left: 420px;
+    color: white;
+    font-family: fantasy;
+}
+h1:hover{
+    color: rgba(0, 255, 221, 0.479);
+}
+
